@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Group Project GPA Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Group Project GPA Calculator</h1>
+        <p>Track your academic progress in real-time</p>
+      </header>
+
+      <div class="main-content">
+        <div class="input-section">
+          <h2 class="section-title">Add New Assignment</h2>
+          <div class="form-group">
+            <label for="assignment-name">Assignment Name</label>
+            <input
+              type="text"
+              id="assignment-name"
+              placeholder="e.g. Final Project"
+            />
+          </div>
+          <div class="form-group">
+            <label for="assignment-grade">Grade (0-5)</label>
+            <input
+              type="number"
+              id="assignment-grade"
+              min="0"
+              max="5"
+              step="0.1"
+              placeholder="e.g. 4.5"
+            />
+          </div>
+          <button id="add-btn">Add Assignment</button>
+
+          <div class="keyboard-shortcut">
+            <p>Press <kbd>S</kbd> to log all data to console</p>
+          </div>
+        </div>
+
+        <div class="results-section">
+          <h2 class="section-title">Results</h2>
+          <div class="gpa-display">
+            <div class="gpa-label">Your GPA</div>
+            <div id="gpa-value" class="gpa-value">0.0</div>
+            <div id="gpa-message">Add assignments to calculate GPA</div>
+          </div>
+
+          <h3 class="section-title">Assignments</h3>
+          <div id="assignments-list" class="assignments-list">
+            <div class="empty-state">No assignments added yet</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      Group Project by Team Alpha | Built with HTML, CSS & JavaScript
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
