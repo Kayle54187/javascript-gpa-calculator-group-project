@@ -31,12 +31,12 @@ This GPA Calculator is a web application that allows students to track their aca
 
 Our team consists of 4 members:
 
-| Name          | Role             | Contributions                                         |
-| ------------- | ---------------- | ----------------------------------------------------- |
-| Alex Chen     | Project Manager  | GitHub setup, team coordination, QA testing           |
-| Maria Garcia  | HTML/CSS Lead    | UI structure, responsive design, styling              |
-| James Wilson  | JavaScript Logic | GPA calculation, data handling, localStorage          |
-| Sarah Johnson | DOM & Events     | Event handling, dynamic rendering, keyboard shortcuts |
+| Name                                                     | Role             | Contributions                                         |
+| -------------------------------------------------------- | ---------------- | ----------------------------------------------------- |
+| Christian Ingabire Habimana (c.ingabire2@alustudent.com) | Project Manager  | GitHub setup, team coordination, QA testing           |
+| Gisele                                                   | HTML/CSS Lead    | UI structure, responsive design, styling              |
+| Mutaganzwa Gift Desire (d.mutaganzw@alustudent.com)      | JavaScript Logic | GPA calculation, data handling, localStorage          |
+| Imanzi                                                   | DOM & Events     | Event handling, dynamic rendering, keyboard shortcuts |
 
 ## How to Use
 
