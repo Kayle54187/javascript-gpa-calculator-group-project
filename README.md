@@ -88,7 +88,7 @@ git checkout -b feature-name
 2. Commit your changes with descriptive messages:
 
 ```bash
-git commit -m "Add descriptive message here"
+git commit -m "Add a descriptive message here"
 ```
 
 3. Push your branch to GitHub:
