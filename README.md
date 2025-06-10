@@ -36,7 +36,7 @@ Our team consists of 4 members:
 | Christian Ingabire Habimana (c.ingabire2@alustudent.com) | Project Manager  | GitHub setup, team coordination, QA testing           |
 | Gisele                                                   | HTML/CSS Lead    | UI structure, responsive design, styling              |
 | Mutaganzwa Gift Desire (d.mutaganzw@alustudent.com)      | JavaScript Logic | GPA calculation, data handling, localStorage          |
-| Imanzi                                                   | DOM & Events     | Event handling, dynamic rendering, keyboard shortcuts |
+| Imanzi Yannick Kenny (k.imanzi@alustudent.com)           | DOM & Events     | Event handling, dynamic rendering, keyboard shortcuts |
 
 ## How to Use
 
