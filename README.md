@@ -79,7 +79,7 @@ gpa-calculator/
 
 ## Contribution Guidelines
 
-1. Create a new branch for your feature:
+1. Create new branch for your feature:
 
 ```bash
 git checkout -b feature-name
@@ -97,7 +97,7 @@ git commit -m "Add a descriptive message here"
 git push origin feature-name
 ```
 
-4. Create a pull request for team review
+4. Create a pull request for a team review
 
 ## License
 
